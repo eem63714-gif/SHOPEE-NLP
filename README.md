@@ -1,2 +1,2 @@
-# Tờ Rang
+# SHOPEE-NLP
 Phân tích bình luận sản phẩm thời trang Shopee
